@@ -15,11 +15,11 @@ Study Type Term Accession	00000222
 
 Study Description	The mesoscale selective plane illumination microscope (mesoSPIM) designed in this study was tested with various cleared tissue samples.
 
-Study Organism	Mus musculus	Gallus gallus
+Study Organism	
 
 Study Organism Term Source REF	NCBITaxon
 
-Study Organism Term Accession	10090	9031
+Study Organism Term Accession	
 
 Study Experiments Number	4
 
@@ -98,6 +98,11 @@ Experiment Imaging Method Term Accession	00000369
 
 Experiment Comments	561 nm excitation laser, emission filter: 561LP Edge Basic, AHF.
 
+Experiment Organism	Mus musculus
+
+Experiment Organism Term Source REF	NCBITaxon
+
+Experiment Organism Term Accession	10090
 
 # assay files
 Experiment Assay File	idr0000-VIP-tdTomato-ASLM-assays.txt
@@ -162,6 +167,12 @@ Experiment Imaging Method Term Source REF	Fbbi
 Experiment Imaging Method Term Accession	00000369
 
 Experiment Comments	561 nm excitation laser, emission filter: 561LP Edge Basic, AHF.
+
+Experiment Organism	Mus musculus
+
+Experiment Organism Term Source REF	NCBITaxon
+
+Experiment Organism Term Accession	10090
 
 
 # assay files
@@ -233,6 +244,11 @@ Experiment Imaging Method Term Accession	00000369
 
 Experiment Comments	561 nm excitation laser, emission filter: 561LP Edge Basic, AHF.
 
+Experiment Organism	Mus musculus
+
+Experiment Organism Term Source REF	NCBITaxon
+
+Experiment Organism Term Accession	10090
 
 # assay files
 Experiment Assay File	idr0066-TPH2-assays.txt
@@ -296,6 +312,12 @@ Experiment Imaging Method Term Source REF	Fbbi
 Experiment Imaging Method Term Accession	00000369
 
 Experiment Comments	A 7-day old chicken embryo was stained for neurofilament, cleared with benzyl alcohol and benzyl benzoate (BABB), and imaged at zoom 4x (3.3 mm FOV, 4x6 tiles, 0.8 mm overlap). The excitation laser line was 561 nm, detection using a 561 nm longpass filter (561LP Edge Basic, AHF). The resulting data was fused in BigStitcher, downsampled 2x, and converted to the Imaris file format.
+
+Experiment Organism	Gallus gallus
+
+Experiment Organism Term Source REF	NCBITaxon
+
+Experiment Organism Term Accession	9031
 
 
 # assay files
